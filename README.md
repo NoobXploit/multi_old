@@ -21,7 +21,7 @@ You can use it for crack random Old Account 2004-11
 <p>👉 git clone https://github.com/NoobXploit/multi_old</p>
 <p>👉 cd multi_old</p>
 <p>👉 ls </p>
-<p>👉 python2 noob.py </p>
+<p>👉 python noob.py </p>
 
 ````
 
