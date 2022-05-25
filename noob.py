@@ -1,0 +1,2 @@
+import fuckk
+fuckk.Main()
